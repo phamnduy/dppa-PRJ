@@ -35,7 +35,7 @@ const Home = () => {
 
     return (
         <HomeContainer>
-         <h1>dddsd</h1>
+         <h1>Home</h1>
         </HomeContainer>
     );
 };
